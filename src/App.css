@@ -1,0 +1,27 @@
+.app-container.light {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.app-container.dark {
+  background-color: #222;
+  color: #f9f9f9;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+form input, form button {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
