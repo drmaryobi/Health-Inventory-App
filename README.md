@@ -19,6 +19,5 @@ A React-based application for tracking medical supplies in health facilities.
 npm install
 npm start
 
-https://69133cfb15f83317dd5f6a4f--ubiquitous-marshmallow-37ae8a.netlify.app/
-
-
+## Live Demo
+[Click here to view the app live](https://69133cfb15f83317dd5f6a4f--ubiquitous-marshmallow-37ae8a.netlify.app/)
