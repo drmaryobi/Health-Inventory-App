@@ -21,3 +21,7 @@ npm start
 
 ## Live Demo
 [Click here to view the app live](https://69133cfb15f83317dd5f6a4f--ubiquitous-marshmallow-37ae8a.netlify.app/)
+
+Author
+Obi Mary  — built for eHealthAfrica 2025 Capstone Project
+
